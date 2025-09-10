@@ -19,4 +19,3 @@ This repository is dedicated to my journey of learning and practicing DSA using 
 - Learn from mistakes and optimize solutions.
 - Explore real-world applications of algorithms.
 
-## 📂 Repository Structure
